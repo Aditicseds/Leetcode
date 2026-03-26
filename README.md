@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditicseds/Something/tree/master/3546-equal-sum-grid-partition-i) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Aditicseds/Something/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Aditicseds/Something/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
