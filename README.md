@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditicseds/Something/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditicseds/Something/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 <!---LeetCode Topics End-->
