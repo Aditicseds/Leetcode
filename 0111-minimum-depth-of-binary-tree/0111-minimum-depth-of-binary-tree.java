@@ -15,11 +15,19 @@
  */
 class Solution {
     public int minDepth(TreeNode root) {
-       if(root == null) return 0;
-        int left = minDepth(root.left);
-        int right = minDepth(root.right);
-        if(root.left == null) return right + 1;
-        if(root.right == null) return left + 1;
-        return Math.min(left, right) + 1;  
+        if (root == null) return 0;
+
+    // if left is null → go right
+    if (root.left == null) {
+        return 1 + minDepth(root.right);
     }
+
+    // if right is null → go left
+    if (root.right == null) {
+        return 1 + minDepth(root.left);
+    }
+
+    // both exist
+    return 1 + Math.min(minDepth(root.left), minDepth(root.right));
+}
 }
