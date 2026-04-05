@@ -7,7 +7,7 @@ class Solution {
             else if(c=='L')x--;
             else x++;
         }
-        if(x!=0 ||  y!=0)return false;
-        return true;
+        
+        return x==0 && y==0;
     }
 }
