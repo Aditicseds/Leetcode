@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Aditicseds/Something/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditicseds/Something/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditicseds/Something/tree/master/3546-equal-sum-grid-partition-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditicseds/Something/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Aditicseds/Something/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditicseds/Something/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditicseds/Something/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditicseds/Something/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Tree
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Aditicseds/Something/tree/master/0113-path-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditicseds/Something/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
