@@ -14,17 +14,29 @@
  * }
  */
 class Solution {
-           int max = Integer.MIN_VALUE;
-       int solve(TreeNode root){
-       if(root == null)
-           return 0;
-       int left = Math.max(0, solve(root.left));
-       int right = Math.max(0, solve(root.right));
-       max = Math.max(max, left + right + root.val);
-       return root.val + Math.max(left, right); 
-       }
+    
+    private int maxSum;
+    
+    private int solve(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        
+        int left = solve(root.left);
+        int right = solve(root.right);
+        
+        int neecheHiMilgayaAnswer = left + right + root.val; 
+        int koiEkAcha = Math.max(left, right) + root.val; 
+        int onlyRootAcha = root.val; 
+
+        maxSum = Math.max(maxSum, Math.max(neecheHiMilgayaAnswer, Math.max(koiEkAcha, onlyRootAcha)));
+        
+        return Math.max(koiEkAcha, onlyRootAcha);
+    }
+    
     public int maxPathSum(TreeNode root) {
-       solve(root);
-       return max;
+        maxSum = Integer.MIN_VALUE;
+        solve(root);
+        return maxSum;
     }
 }
