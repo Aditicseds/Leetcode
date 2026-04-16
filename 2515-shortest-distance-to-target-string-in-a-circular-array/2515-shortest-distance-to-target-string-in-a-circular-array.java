@@ -1,18 +1,16 @@
 class Solution {
     public int closestTarget(String[] words, String target, int I) {
-        int temp=Integer.MAX_VALUE,n=words.length;
-        int i=I,j=I;
-        if(words[I].equals(target))return 0;
-        for(int c=0;c<words.length;c++){
-            if(words[c].equals(target)){
-            int clock=(c-I+n)%n;
-            int anti=(I-c+n)%n;
-            temp=Math.min(temp,Math.min(clock,anti));
+        int n = words.length;
+        int ans = Integer.MAX_VALUE;
+
+        for (int c = 0; c < n; c++) {
+            if (words[c].equals(target)) {
+                int d = Math.abs(c - I);
+                int dist = Math.min(d, n - d);
+                ans = Math.min(ans, dist);
             }
-            
         }
 
-        if(temp==Integer.MAX_VALUE)return -1;
-        return temp;
+        return ans == Integer.MAX_VALUE ? -1 : ans;
     }
 }
