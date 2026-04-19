@@ -1,44 +1,22 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-         int [] finalArr = new int[nums.length];
-        
-        Boolean foundStable = false;
-        int min_stable_index = Integer.MAX_VALUE;
-        // int min_stable_value = Integer.MAX_VALUE;
-
-        // left to right larger
-        int big = nums[0];
-        for(int i=0;i<nums.length;i++) {
-
-            if(nums[i] > big){
-                big = Math.max(nums[i],big);
-            }
-            finalArr[i] = big;
+        int n=nums.length;
+        int[] pre=new int[n];
+        int[] suf=new int[n];
+        pre[0]=nums[0];
+        suf[n-1]=nums[n-1];
+        for(int i=1;i<n;i++){
+            pre[i]=Math.max(pre[i-1],nums[i]);
+            suf[n-i-1]=Math.min(suf[n-i],nums[n-i-1]);
         }
-
-        int small = nums[nums.length-1];
-        
-        for(int j=nums.length-1;j>=0;j--) {
-
-            if(nums[j] < small){
-                small = Math.min(nums[j],small);
-            }
-
-            
-            finalArr[j]-= small;
-
-            if(finalArr[j]<=k){
-                foundStable = true;
-                min_stable_index = j;
-                
+       
+        for(int i=0;i<n;i++){
+            int diff=pre[i]-suf[i];
+            if(diff<=k){
+                return i;
             }
         }
+        return -1;
 
-
-        if(foundStable == true){
-            return min_stable_index;
-        }else{
-            return -1;
-        }
     }
 }
