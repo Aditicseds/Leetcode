@@ -2,17 +2,18 @@ class Solution {
     List<String> l=new ArrayList<>();
     StringBuilder sb=new StringBuilder();
     boolean isValid(String s){
-        Stack<Character> stack =new Stack<>();
+        int count=0;
         for(char c:s.toCharArray()){
             if(c=='('){
-                stack.push('(');
+                count++;
             }
+            
             else{ 
-                if(stack.isEmpty()) return false; 
-                stack.pop();
+               count--;
             }    
+            if(count<0)return false;
         }
-        return stack.size()==0;
+        return count==0;
     }
     void generate(StringBuilder sb,int n){
         if(sb.length()==2*n){
