@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aditicseds/Something/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/Aditicseds/Something/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditicseds/Something/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aditicseds/Something/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Aditicseds/Something/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aditicseds/Something/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditicseds/Something/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
