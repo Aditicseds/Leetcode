@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditicseds/Something/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditicseds/Something/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aditicseds/Something/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aditicseds/Something/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Aditicseds/Something/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditicseds/Something/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aditicseds/Something/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditicseds/Something/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aditicseds/Something/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aditicseds/Something/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Aditicseds/Something/tree/master/0226-invert-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Aditicseds/Something/tree/master/2833-furthest-point-from-origin) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
