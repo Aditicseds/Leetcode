@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditicseds/Something/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Aditicseds/Something/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditicseds/Something/tree/master/3546-equal-sum-grid-partition-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditicseds/Something/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditicseds/Something/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aditicseds/Something/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditicseds/Something/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditicseds/Something/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Aditicseds/Something/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditicseds/Something/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditicseds/Something/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditicseds/Something/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/Aditicseds/Something/tree/master/3488-closest-equal-element-queries) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditicseds/Something/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -172,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditicseds/Something/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditicseds/Something/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditicseds/Something/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditicseds/Something/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditicseds/Something/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
 |  |
 | ------- |
