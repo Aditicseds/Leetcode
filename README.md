@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditicseds/Something/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditicseds/Something/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditicseds/Something/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Aditicseds/Something/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Aditicseds/Something/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Aditicseds/Something/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Aditicseds/Something/tree/master/2906-construct-product-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Aditicseds/Something/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Aditicseds/Something/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Aditicseds/Something/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditicseds/Something/tree/master/3546-equal-sum-grid-partition-i) |
