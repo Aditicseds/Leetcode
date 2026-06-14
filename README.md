@@ -172,14 +172,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditicseds/Something/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditicseds/Something/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditicseds/Something/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditicseds/Something/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditicseds/Something/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditicseds/Something/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditicseds/Something/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
