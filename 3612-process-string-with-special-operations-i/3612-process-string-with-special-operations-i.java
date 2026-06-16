@@ -5,11 +5,10 @@ class Solution {
         if(ans.length()>=1 && s.charAt(i)=='*'){
             ans.deleteCharAt(ans.length()-1);
         }
-        else if(ans.length()>=1 && s.charAt(i)=='#'){
-            StringBuilder sb = new StringBuilder(ans);
-            ans.append(sb);
+        else if(s.charAt(i)=='#'){
+            ans.append(ans.toString());
         }
-        else if(ans.length()>=1 && s.charAt(i)=='%'){
+        else if(s.charAt(i)=='%'){
             ans.reverse();
         }
         else if(Character.isLetter(s.charAt(i))){
