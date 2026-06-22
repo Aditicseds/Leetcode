@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditicseds/Something/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/Aditicseds/Something/tree/master/0657-robot-return-to-origin) |
+| [1189-maximum-number-of-balloons](https://github.com/Aditicseds/Something/tree/master/1189-maximum-number-of-balloons) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditicseds/Something/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditicseds/Something/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditicseds/Something/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Aditicseds/Something/tree/master/1189-maximum-number-of-balloons) |
 | [2615-sum-of-distances](https://github.com/Aditicseds/Something/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Aditicseds/Something/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditicseds/Something/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Aditicseds/Something/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Aditicseds/Something/tree/master/2833-furthest-point-from-origin) |
 ## Union-Find
 |  |
