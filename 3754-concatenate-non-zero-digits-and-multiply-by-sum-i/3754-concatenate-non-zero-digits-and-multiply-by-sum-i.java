@@ -1,19 +1,19 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        int m = n;
-        StringBuilder sb = new StringBuilder();
-        int sum = 0;
-        while(m > 0){
-            int d = m % 10;
-            if(d!=0){
-                sum+=d;
-                sb.append(d);
-            }
-            m/=10;
-
-       }
-       String s = sb.reverse().toString();
-       if(s.equals(""))return 0;
-       return sum*Long.parseLong(s);
+        long num=0;
+        long sum=0;
+        long ans=0;
+        while(n!=0){
+            if(n%10!=0){
+                num=num*10+n%10;
+                sum+=n%10;
+                
+            }n/=10;
+        }
+         while(num!=0){
+            ans=ans*10+num%10;
+            num/=10;
+        }
+        return ans*sum;
     }
 }
