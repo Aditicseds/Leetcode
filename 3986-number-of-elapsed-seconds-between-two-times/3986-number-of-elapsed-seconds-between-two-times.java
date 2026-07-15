@@ -1,12 +1,13 @@
 class Solution {
-     private int seconds(String[] str) {
-        int cnt = 0;
-        cnt += Integer.parseInt(str[0]) * 60 * 60;
-        cnt += Integer.parseInt(str[1]) * 60;
-        cnt += Integer.parseInt(str[2]);
-        return cnt;
-    }
-    public int secondsBetweenTimes(String startTime, String endTime) {
-        return seconds(endTime.split(":")) - seconds(startTime.split(":"));
+    public int secondsBetweenTimes(String s, String e) {
+        int ts1 = Integer.parseInt(s.substring(0,2)) * 60 * 60;
+        ts1 += Integer.parseInt(s.substring(3,5)) * 60;
+        ts1 += Integer.parseInt(s.substring(6));
+
+        int ts2 = Integer.parseInt(e.substring(0,2)) * 60 * 60;
+        ts2 += Integer.parseInt(e.substring(3,5)) * 60;
+        ts2 += Integer.parseInt(e.substring(6));
+
+        return ts2-ts1;
     }
 }
