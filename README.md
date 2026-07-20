@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Aditicseds/Something/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Aditicseds/Something/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditicseds/Something/tree/master/1331-rank-transform-of-an-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Aditicseds/Something/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aditicseds/Something/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditicseds/Something/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Aditicseds/Something/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/Aditicseds/Something/tree/master/1260-shift-2d-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditicseds/Something/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditicseds/Something/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditicseds/Something/tree/master/3612-process-string-with-special-operations-i) |
