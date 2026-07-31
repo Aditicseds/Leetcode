@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditicseds/Something/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditicseds/Something/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditicseds/Something/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditicseds/Something/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aditicseds/Something/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditicseds/Something/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditicseds/Something/tree/master/3612-process-string-with-special-operations-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Aditicseds/Something/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Aditicseds/Something/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditicseds/Something/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditicseds/Something/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Aditicseds/Something/tree/master/3488-closest-equal-element-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditicseds/Something/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aditicseds/Something/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditicseds/Something/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Aditicseds/Something/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditicseds/Something/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditicseds/Something/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditicseds/Something/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditicseds/Something/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditicseds/Something/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditicseds/Something/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditicseds/Something/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditicseds/Something/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditicseds/Something/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditicseds/Something/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
 |  |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Aditicseds/Something/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Aditicseds/Something/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditicseds/Something/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditicseds/Something/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
