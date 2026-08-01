@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aditicseds/Something/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditicseds/Something/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Aditicseds/Something/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Aditicseds/Something/tree/master/1288-remove-covered-intervals) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Aditicseds/Something/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/Aditicseds/Something/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditicseds/Something/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditicseds/Something/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditicseds/Something/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditicseds/Something/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditicseds/Something/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0486-predict-the-winner](https://github.com/Aditicseds/Something/tree/master/0486-predict-the-winner) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditicseds/Something/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
@@ -299,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditicseds/Something/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aditicseds/Something/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aditicseds/Something/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
