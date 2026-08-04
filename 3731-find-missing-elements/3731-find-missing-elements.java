@@ -12,7 +12,7 @@ class Solution {
             arr[i]++;
         }
 
-        for(int i=min;i<max;i++){
+        for(int i=min+1;i<max;i++){
             if(arr[i] == 0)
                 l.add(i);
         }
