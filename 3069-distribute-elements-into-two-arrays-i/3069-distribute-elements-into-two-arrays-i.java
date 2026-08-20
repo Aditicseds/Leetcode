@@ -1,26 +1,23 @@
 class Solution {
     public int[] resultArray(int[] nums) {
-        ArrayList<Integer> arr1 = new ArrayList<>();
-        ArrayList<Integer> arr2 = new ArrayList<>();
-        arr1.add(nums[0]);
-        arr2.add(nums[1]);
-        //index ka problem 
-        for(int i=2;i<nums.length;i++){
-            if(arr1.get(arr1.size()-1)>arr2.get(arr2.size()-1)){
-                arr1.add(nums[i]);
+        int n = nums.length;
+        int[] arr1 = new int[n];
+        int[] arr2 = new int[n-1];
+        arr1[0] = nums[0];
+        arr2[0] = nums[1];
+        // Like a stack pointer
+        int arr1Pointer = 0;
+        int arr2Pointer = 0;
+        for(int i = 2; i < n; i++) {
+            if(arr1[arr1Pointer] > arr2[arr2Pointer]) {
+                arr1[++arr1Pointer] = nums[i];
+            } else {
+                arr2[++arr2Pointer] = nums[i];
             }
-            else{
-                arr2.add(nums[i]);
-            }
         }
-        int ans[]=new int[nums.length];
-        int k=0;
-        for(int i: arr1){
-            ans[k++]=i;
+        for(int i = 0; i <= arr2Pointer; i++) {
+            arr1[++arr1Pointer] = arr2[i];
         }
-        for(int i:arr2){
-            ans[k++]=i;
-        }
-        return ans;
+        return arr1;
     }
 }
