@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aditicseds/Something/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditicseds/Something/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aditicseds/Something/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aditicseds/Something/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aditicseds/Something/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Aditicseds/Something/tree/master/0226-invert-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aditicseds/Something/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Aditicseds/Something/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aditicseds/Something/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
 | [2305-fair-distribution-of-cookies](https://github.com/Aditicseds/Something/tree/master/2305-fair-distribution-of-cookies) |
 ## Divide and Conquer
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
 | [3310-remove-methods-from-project](https://github.com/Aditicseds/Something/tree/master/3310-remove-methods-from-project) |
 ## Algorithm X
 |  |
@@ -366,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Aditicseds/Something/tree/master/2305-fair-distribution-of-cookies) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
