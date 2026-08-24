@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditicseds/Something/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Aditicseds/Something/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/Aditicseds/Something/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Aditicseds/Something/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aditicseds/Something/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
