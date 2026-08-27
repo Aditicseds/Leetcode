@@ -12,13 +12,7 @@ class Solution {
             int mid=(f+l)/2;
             long hours=0;
             for(int pile:piles){
-                int t=pile/mid;
-                if(pile%mid!=0){
-                    hours=hours+t+1;
-                }
-                else{
-                    hours+=t;
-                }
+                hours=hours+(pile+mid-1)/mid;
             }
             if(hours<=h){
               l=mid-1;
