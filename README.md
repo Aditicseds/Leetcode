@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aditicseds/Something/tree/master/0051-n-queens) |
 | [0486-predict-the-winner](https://github.com/Aditicseds/Something/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditicseds/Something/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/Aditicseds/Something/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aditicseds/Something/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Aditicseds/Something/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Aditicseds/Something/tree/master/1288-remove-covered-intervals) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/Aditicseds/Something/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditicseds/Something/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/Aditicseds/Something/tree/master/3488-closest-equal-element-queries) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aditicseds/Something/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
