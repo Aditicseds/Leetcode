@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aditicseds/Something/tree/master/0051-n-queens) |
 | [0486-predict-the-winner](https://github.com/Aditicseds/Something/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditicseds/Something/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Aditicseds/Something/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Aditicseds/Something/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aditicseds/Something/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Aditicseds/Something/tree/master/1260-shift-2d-grid) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditicseds/Something/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0739-daily-temperatures](https://github.com/Aditicseds/Something/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditicseds/Something/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditicseds/Something/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Aditicseds/Something/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditicseds/Something/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
