@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditicseds/Something/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditicseds/Something/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Aditicseds/Something/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditicseds/Something/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Aditicseds/Something/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Aditicseds/Something/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Aditicseds/Something/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditicseds/Something/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aditicseds/Something/tree/master/1386-cinema-seat-allocation) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Aditicseds/Something/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2615-sum-of-distances](https://github.com/Aditicseds/Something/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Aditicseds/Something/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditicseds/Something/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditicseds/Something/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Aditicseds/Something/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Aditicseds/Something/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -393,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Aditicseds/Something/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
