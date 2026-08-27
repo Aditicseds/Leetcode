@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aditicseds/Something/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditicseds/Something/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditicseds/Something/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditicseds/Something/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditicseds/Something/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aditicseds/Something/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aditicseds/Something/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditicseds/Something/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aditicseds/Something/tree/master/0257-binary-tree-paths) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditicseds/Something/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditicseds/Something/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditicseds/Something/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditicseds/Something/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditicseds/Something/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Aditicseds/Something/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Aditicseds/Something/tree/master/0226-invert-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditicseds/Something/tree/master/0797-all-paths-from-source-to-target) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditicseds/Something/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditicseds/Something/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aditicseds/Something/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
