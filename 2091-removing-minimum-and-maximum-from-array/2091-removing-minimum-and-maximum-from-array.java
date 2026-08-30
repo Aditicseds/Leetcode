@@ -22,9 +22,8 @@ class Solution {
         int first = Math.max(idx[0][1],idx[1][1])+1;
         int last = n-Math.min(idx[0][1],idx[1][1]);
         //from different sides
-        int diff1 = idx[0][1]+1+n-idx[1][1];
-        int diff2 = n-idx[0][1]+idx[1][1]+1;
-        ans = Math.min(first,Math.min(last,Math.min(diff1,diff2)));
+        int diff = Math.min(idx[0][1],idx[1][1])+1+n-Math.max(idx[0][1],idx[1][1]);
+        ans = Math.min(first,Math.min(last,diff));
         return ans;
 
     }
