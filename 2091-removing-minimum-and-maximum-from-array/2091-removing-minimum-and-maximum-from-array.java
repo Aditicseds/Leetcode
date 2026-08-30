@@ -1,30 +1,29 @@
 class Solution {
     public int minimumDeletions(int[] nums) {
-        if(nums.length==1||nums.length==2){
-            return nums.length;
-        }
-        int idx[][]=new int[2][2];
-        idx[0][0]=Integer.MAX_VALUE;
-        idx[1][0]=Integer.MIN_VALUE;
-        int ans=0;
-        for(int i=0;i<nums.length;i++){
-            if(idx[0][0]>nums[i]){
-                idx[0][0]=nums[i];
-                idx[0][1]=i;
+        int n=nums.length;
+        if(n<=2) return n;
+        int maxval=Integer.MIN_VALUE;
+        int minval=Integer.MAX_VALUE;
+        int minInd=-1;
+        int maxInd=-1;
+        for(int i=0;i<n;i++)
+        {
+            if(nums[i]<minval)
+            {
+                minval=nums[i];
+                minInd=i;
             }
-            if(idx[1][0]<nums[i]){
-                idx[1][0]=nums[i];
-                idx[1][1]=i;
+            if(nums[i]>maxval)
+            {
+                maxval=nums[i];
+                maxInd=i;
             }
         }
-        int n = nums.length;
-        //check both on same side
-        int first = Math.max(idx[0][1],idx[1][1])+1;
-        int last = n-Math.min(idx[0][1],idx[1][1]);
-        //from different sides
-        int diff = Math.min(idx[0][1],idx[1][1])+1+n-Math.max(idx[0][1],idx[1][1]);
-        ans = Math.min(first,Math.min(last,diff));
-        return ans;
-
+        int a=Math.min(minInd,maxInd);
+        int b =Math.max(minInd,maxInd);
+         int front=b+1;
+         int back=n-a;
+         int both=(a+1)+(n-b);
+         return Math.min(front,Math.min(back,both));
     }
 }
