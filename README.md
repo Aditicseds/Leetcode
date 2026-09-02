@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditicseds/Something/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditicseds/Something/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditicseds/Something/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Aditicseds/Something/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditicseds/Something/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditicseds/Something/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Aditicseds/Something/tree/master/3488-closest-equal-element-queries) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Aditicseds/Something/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Aditicseds/Something/tree/master/1386-cinema-seat-allocation) |
 | [2305-fair-distribution-of-cookies](https://github.com/Aditicseds/Something/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Aditicseds/Something/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditicseds/Something/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aditicseds/Something/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aditicseds/Something/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aditicseds/Something/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditicseds/Something/tree/master/0877-stone-game) |
 | [2305-fair-distribution-of-cookies](https://github.com/Aditicseds/Something/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Aditicseds/Something/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditicseds/Something/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditicseds/Something/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Aditicseds/Something/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Aditicseds/Something/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
