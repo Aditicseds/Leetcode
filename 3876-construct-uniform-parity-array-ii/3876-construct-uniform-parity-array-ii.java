@@ -6,6 +6,9 @@ class Solution {
         if(n%2!=0) even = false;
         min=Math.min(min,n);
        }
+        if(min%2==1){
+            return true;
+        }
        return min%2==1 || even;
     }
 }
