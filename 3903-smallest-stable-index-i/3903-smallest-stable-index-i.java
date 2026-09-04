@@ -4,10 +4,8 @@ class Solution {
       min[nums.length-1]=nums[nums.length-1];
       int mini = nums[nums.length-1];
       for(int i=nums.length-2;i>=0;i--){
-          if(nums[i]<mini){
-            mini=nums[i];
-          }
-          min[i]=mini;
+        mini=nums[i]<mini?nums[i]:mini;
+        min[i]=mini;
       }
       int max=-2;
       for(int i=0;i<nums.length;i++){
